@@ -1,25 +1,27 @@
-=Other projects that I have participated in but are not hosted on github are listed below
+## Other projects
 
-Heroku
+Other projects that I have participated in but are not hosted on github are listed below
 
-wtb-blog 
+#### Heroku
+
+[wtb-blog](http://www.whatsthebeef.org) - Simple blog engine created from scratch in rails where I do most my blogging 
  
-hinaismildlyretarded
+[hinaismildlyretarded](http://hinaismildlyretarded.herokuapp.com) - Silly animations in javascript
  
-apnuft
+[apnuft](http://apnuft.herokuapp.com) - The website for the [android cross process test tool](https://github.com/whatsthebeef/apnuft) I created which can be found 
  
-zode64
+[zode64](http://www.zode64.com) - Company website, wrote in rails
  
-re-idea-me
+[re-idea-me](http://www.re-idea.me) - Chrome extension and website to help develop ideas
  
-betkeeper-webapp
+[betkeeper-webapp](https://www.betkeeper.net) - Website to the betkeeper iPhone app which includes a interface to upload and view bet data 
  
-mysterious-everglades-7115
+[tagvoto](mysterious-everglades-7115.herokuapp.com) - Website to submit products and discuss them (reddit of products)
  
-b-f-c
+[b-f-c](b-f-c.herokuapp.com) - Node js project management tool which interfaces with basecamp and google spreadsheets
  
-BitBucket
+#### BitBucket
  
-the-ginger-gambler
+[the-ginger-gambler](https://www.betkeeper.net) - iPhone app to manage your bets and view statistics
  
  
