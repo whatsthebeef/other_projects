@@ -1,5 +1,7 @@
 ## Other projects
 
+View this repository using github pages [here](http://whatsthebeef.github.io/other_projects)
+
 Other projects that I have participated in but are not hosted on github are listed below
 
 #### Heroku
